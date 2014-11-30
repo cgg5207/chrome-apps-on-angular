@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "angular chrome example",
+  "name": "weather chrome example",
   "description": "A plain text description",
   "version": "0.1",
-  "permissions": ["http://api.wunderground.com/api/"],
+  "permissions": ["http://api.wunderground.com/api/","http://api.map.baidu.com/telematics/v3/weather"],
   "background": {
     "scripts": ["js/vendor/angular.min.js"]
   },
