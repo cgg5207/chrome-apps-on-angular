@@ -34,5 +34,5 @@ http://www.wunderground.com/weather/api
 
 http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html
 
-
+http://developer.baidu.com/map/carapi-7.htm
 
